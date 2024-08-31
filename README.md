@@ -1,12 +1,19 @@
 # Pokémon React App
 
-This is a React application that displays Pokémon data fetched from the [Pokémon API](https://pokeapi.co/api/v2/pokemon). It features a card-based layout for displaying Pokémon information, including images and names. Additionally, it includes a search functionality to filter Pokémon based on user input.
+This is a React application that displays Pokémon data fetched from the [Pokémon API](https://pokeapi.co/api/v2/pokemon). It features a card-based layout to display Pokémon information, including images and names. The app also includes search functionality to filter Pokémon based on user input. 
+
+![Pokémon App](https://yourdomain.com/path-to-image/pokemon-app-screenshot.png) <!-- Replace with a screenshot of your app -->
 
 ## Features
 
 - **Display Pokémon Data:** Shows Pokémon information in cards with images and names.
 - **Search Functionality:** Allows users to search for Pokémon by name.
 - **Responsive Design:** The app is designed to work well on various screen sizes.
+- **Animations:** Includes smooth animations for loading and transitions between search results.
+
+## Live Demo
+
+You can view the live demo of the application at [Pokémon React App Demo](https://yourdomain.com/pokemon-app) <!-- Replace with the actual URL of your live demo -->
 
 ## Getting Started
 
