@@ -28,7 +28,7 @@ Make sure you have `node` and `npm` installed. You can download and install them
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/pokemon-app.git
+    git clone [https://github.com/omhari1472/pokemon-app.git]
     ```
 
 2. Navigate to the project directory:
