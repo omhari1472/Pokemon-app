@@ -13,7 +13,7 @@ This is a React application that displays Pokémon data fetched from the [Pokém
 
 ## Live Demo
 
-You can view the live demo of the application at [Pokémon React App Demo](https://yourdomain.com/pokemon-app) <!-- Replace with the actual URL of your live demo -->
+You can view the live demo of the application at [Pokémon React App Demo](https://pokemon-assignment-hari.netlify.app/) <!-- Replace with the actual URL of your live demo -->
 
 ## Getting Started
 
