@@ -1,24 +1,29 @@
-.App {
+/* App.css */
+.app {
   text-align: center;
+  font-family: Arial, sans-serif;
 }
 
 input {
-  margin: 20px;
   padding: 10px;
-  font-size: 16px;
+  margin: 20px;
+  width: 200px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
 
-.pokemon-cards {
+.pokemon-list {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
 .pokemon-card {
+  background: #f9f9f9;
   border: 1px solid #ddd;
   border-radius: 8px;
   margin: 10px;
-  padding: 10px;
+  padding: 20px;
   width: 150px;
   text-align: center;
 }
@@ -26,4 +31,28 @@ input {
 .pokemon-card img {
   width: 100px;
   height: 100px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.pagination button {
+  padding: 10px;
+  margin: 0 5px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+  cursor: pointer;
+}
+
+.pagination button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.pagination span {
+  margin: 0 10px;
 }
