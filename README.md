@@ -2,7 +2,7 @@
 
 This is a React application that displays Pokémon data fetched from the [Pokémon API](https://pokeapi.co/api/v2/pokemon). It features a card-based layout to display Pokémon information, including images and names. The app also includes search functionality to filter Pokémon based on user input. 
 
-![Pokémon App](https://yourdomain.com/path-to-image/pokemon-app-screenshot.png) <!-- Replace with a screenshot of your app -->
+[![Pokémon App](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png)](https://pokemon-assignment-hari.netlify.app/) <!-- Replace with a link to your live demo -->
 
 ## Features
 
